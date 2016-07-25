@@ -1,1 +1,1 @@
-You have to install [Cube Explorer](https://github.com/skycoder-official/cube-explorer) which only supports Winodows!
+You have to install [Cube Explorer](https://github.com/skycoder-official/cube-explorer) which only supports Windows!
